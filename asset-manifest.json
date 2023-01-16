@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kelurahan-banyorang/static/css/main.5fe127bc.css",
+    "main.js": "/kelurahan-banyorang/static/js/main.e010d904.js",
+    "static/js/787.d983846b.chunk.js": "/kelurahan-banyorang/static/js/787.d983846b.chunk.js",
+    "index.html": "/kelurahan-banyorang/index.html",
+    "main.5fe127bc.css.map": "/kelurahan-banyorang/static/css/main.5fe127bc.css.map",
+    "main.e010d904.js.map": "/kelurahan-banyorang/static/js/main.e010d904.js.map",
+    "787.d983846b.chunk.js.map": "/kelurahan-banyorang/static/js/787.d983846b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5fe127bc.css",
+    "static/js/main.e010d904.js"
+  ]
+}
